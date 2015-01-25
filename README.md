@@ -8,4 +8,4 @@ An idea.
 
 It would look something like this:
 
-<img src="mockup.png" width="700">
+<img src="mock-up.png" width="700">
