@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[9lcV3y2vzoBKGPksMJDcYA]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="20" total="50">
+    <review>
+  <id>1169008627</id>
+    <book>
+  <id type="integer">18528141</id>
+  <isbn>1927668050</isbn>
+  <isbn13>9781927668054</isbn13>
+  <text_reviews_count type="integer">57</text_reviews_count>
+  <title>Cat Person</title>
+  <image_url>https://d.gr-assets.com/books/1400955438m/18528141.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1400955438s/18528141.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/18528141-cat-person</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Koyama Press</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>259</ratings_count>
+  <description>&lt;em&gt;Cat Person&lt;/em&gt; is a collection of comics by cartoonist Seo Kim. Begun as a personal challenge to create daily, the comics feature a variety of themes from the silly to the serious. Characterized by a charming drawing style and frequently featuring the cartoonist and her farcical feline Jimmy, these are the best Sunday comics you've never seen.</description>
+<authors>
+<author>
+<id>6907660</id>
+<name>Seo Kim</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1404737087p5/6907660.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1404737087p2/6907660.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6907660.Seo_Kim]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>268</ratings_count>
+<text_reviews_count>58</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Jan 14 00:00:00 -0800 2015</read_at>
+  <date_added>Wed Jan 14 23:55:10 -0800 2015</date_added>
+  <date_updated>Wed Jan 14 23:55:23 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1169008627]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1169008627]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1152843397</id>
+    <book>
+  <id type="integer">23646773</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>She Commands Me and I Obey (Imperial Radch, #0.6)</title>
+  <image_url>https://d.gr-assets.com/books/1417502947m/23646773.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1417502947s/23646773.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/23646773-she-commands-me-and-i-obey</link>
+  <num_pages>25</num_pages>
+  <format>ebook</format>
+  <edition_information></edition_information>
+  <publisher>Strange Horizons</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>30</ratings_count>
+  <description>A short story set in the world of Ancillary Justice, published by Strange Horizons as part of their annual funding drive.</description>
+<authors>
+<author>
+<id>3365457</id>
+<name>Ann Leckie</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p5/3365457.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p2/3365457.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3365457.Ann_Leckie]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>18171</ratings_count>
+<text_reviews_count>2981</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="short-stories" exclusive="false" review_shelf_id="875915309" sortable="false" />
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 02 21:30:18 -0800 2015</started_at>
+  <read_at>Mon Jan 05 22:05:28 -0800 2015</read_at>
+  <date_added>Fri Jan 02 21:30:18 -0800 2015</date_added>
+  <date_updated>Mon Jan 05 22:09:05 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1152843397]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1152843397]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1135911112</id>
+    <book>
+  <id type="integer">51506</id>
+  <isbn>1564782115</isbn>
+  <isbn13>9781564782113</isbn13>
+  <text_reviews_count type="integer">286</text_reviews_count>
+  <title>Wittgenstein's Mistress</title>
+  <image_url>https://d.gr-assets.com/books/1347696167m/51506.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1347696167s/51506.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/51506.Wittgenstein_s_Mistress</link>
+  <num_pages>279</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Dalkey Archive Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1988</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>2832</ratings_count>
+  <description>Wittgenstein's Mistress is a novel unlike anything David Markson - or anyone else - has ever written before. It is the story of a woman who is convinced, and, astonishingly, will ultimately convince the reader as well, that she is the only person left on earth. Presumably she is mad. And yet so appealing is her character, and so witty and seductive her narrative voice, that we will follow her hypnotically as she unloads the intellectual baggage of a lifetime in a series of irreverent meditations on everything and everybody from Brahms to sex to Heidegger to Helen of Troy. And as she contemplates aspects of the troubled past which have brought her to her present state, so too will her drama become one of the few certifiably original fictions of our time.</description>
+<authors>
+<author>
+<id>10747</id>
+<name>David Markson</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1238041034p5/10747.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1238041034p2/10747.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10747.David_Markson]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>6501</ratings_count>
+<text_reviews_count>832</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+</book>
+
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Dec 19 11:09:07 -0800 2014</started_at>
+  <read_at>Sun Dec 28 23:27:46 -0800 2014</read_at>
+  <date_added>Fri Dec 19 11:09:07 -0800 2014</date_added>
+  <date_updated>Sun Dec 28 23:27:46 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1135911112]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1135911112]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1135134311</id>
+    <book>
+  <id type="integer">13651</id>
+  <isbn>0061054887</isbn>
+  <isbn13>9780061054884</isbn13>
+  <text_reviews_count type="integer">1363</text_reviews_count>
+  <title>The Dispossessed (Hainish Cycle, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1353467455m/13651.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1353467455s/13651.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/13651.The_Dispossessed</link>
+  <num_pages>387</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Harper Voyager</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>33354</ratings_count>
+  <description>Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life--Shevek must make the unprecedented journey to the utopian mother planet, Anarres, to challenge the complex structures of life and living, and ignite the fires of change.</description>
+<authors>
+<author>
+<id>874602</id>
+<name>Ursula K. Le Guin</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1244291425p5/874602.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1244291425p2/874602.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>463775</ratings_count>
+<text_reviews_count>20220</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 02 21:29:42 -0800 2015</started_at>
+  <read_at>Tue Jan 20 14:35:46 -0800 2015</read_at>
+  <date_added>Thu Dec 18 14:18:32 -0800 2014</date_added>
+  <date_updated>Tue Jan 20 14:35:46 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1135134311]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1135134311]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1107468455</id>
+    <book>
+  <id type="integer">18492619</id>
+  <isbn>1935639811</isbn>
+  <isbn13>9781935639817</isbn13>
+  <text_reviews_count type="integer">82</text_reviews_count>
+  <title>Us Conductors</title>
+  <image_url>https://d.gr-assets.com/books/1384260435m/18492619.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1384260435s/18492619.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/18492619-us-conductors</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Tin House Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>617</ratings_count>
+  <description>&lt;strong&gt;The New Face of Fiction for 2014, &lt;em&gt;Us Conductors&lt;/em&gt; is a beautiful, haunting, brilliant novel inspired by the true life and loves of the Russian scientist, inventor and spy Lev Termen--creator of the theremin.&lt;/strong&gt; &lt;br&gt;     In a finely woven series of flashbacks and correspondence, &lt;em&gt;Us Conductors&lt;/em&gt; takes us from the glitz and glam of New York in the 1930s to the gulags and scientific camps of the Soviet Union. Lev Termen is imprisoned on a ship steaming its way from New York City to the Soviet Union. He is writing a letter to his "one true love," Clara Rockmore, the finest theremin player in the world. From there we learn Termen's story: his early days as a scientist in Leningrad, and the acclaim he received as the inventor of the theremin, eventually coming to New York under the aegis of the Russian state. There he stays, teaching eager music students, making his name, and swiftly falling in love with Clara. But it isn't long until he has fallen in with Russian spooks, slipping through the shadows of a budding Cold War, with cold-blooded results. The novel builds to a crescendo as Termen returns to Russia, where he is imprisoned in a Siberian gulag and later brought to Moscow, tasked with eavesdropping on Stalin himself. &lt;em&gt;Us Conductors&lt;/em&gt; is a book of longing and electricity. Like Termen's own life, it is steeped in beauty, wonder and looping heartbreak. How strong is unrequited love? What does it mean when it is the only thing keeping you alive? This sublime debut inhabits the idea of invention on every level, no more so than in its depiction of Termen's endless feelings for Clara--against every realistic odd. For what else is love, but the greatest invention of all?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;From the Trade Paperback edition.&lt;/em&gt;</description>
+<authors>
+<author>
+<id>7538520</id>
+<name>Sean   Michaels</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1387645191p5/7538520.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1387645191p2/7538520.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7538520.Sean_Michaels]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>643</ratings_count>
+<text_reviews_count>117</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Nov 15 23:01:13 -0800 2014</started_at>
+  <read_at>Thu Nov 27 23:20:42 -0800 2014</read_at>
+  <date_added>Sat Nov 15 23:01:13 -0800 2014</date_added>
+  <date_updated>Thu Nov 27 23:20:42 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1107468455]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1107468455]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1107417216</id>
+    <book>
+  <id type="integer">23561555</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Right Body, Wrong Junk</title>
+  <image_url>https://d.gr-assets.com/books/1415980689m/23561555.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415980689s/23561555.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/23561555-right-body-wrong-junk</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>For the past two years, I've been writing a series of pieces about my experiences as a transgender woman for The Bygone Bureau. We called the series Right Body, Wrong Junk, because I'm incredibly juvenile even when talking about serious stuff.&lt;br&gt;&lt;br&gt;The series concluded in April with the tenth essay, Pivoting On The Groin, and since then I've been re-editing and updating the original essays, as well as adding annotations which provide further detail, backstory, and jokes. These annotations add almost 10,000 words to the original series, doubling its length (and, hopefully, your enjoyment).&lt;br&gt;&lt;br&gt;I've packaged all the essays, with the annotations and an entirely new essay, together into an eBook, and I'm selling it. Hopefully to you. It's available in ePub, Mobi, PDF, HTML, rich text, and plain text formats (you'll be able to download any and/or all of them) for $10 USD.</description>
+<authors>
+<author>
+<id>9853344</id>
+<name>Avery Edison</name>
+<role></role>
+<image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-2201d4a48ef4852b422c278952e03be9.png]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-ccc56e79bcc2db9e6cdcd450a4940d46.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9853344.Avery_Edison]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 04 00:00:00 -0800 2014</started_at>
+  <read_at>Fri Dec 05 13:29:00 -0800 2014</read_at>
+  <date_added>Sat Nov 15 21:15:19 -0800 2014</date_added>
+  <date_updated>Fri Dec 05 13:29:00 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1107417216]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1107417216]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1090504968</id>
+    <book>
+  <id type="integer">89724</id>
+  <isbn>0143039970</isbn>
+  <isbn13>9780143039976</isbn13>
+  <text_reviews_count type="integer">2539</text_reviews_count>
+  <title>We Have Always Lived in the Castle</title>
+  <image_url>https://d.gr-assets.com/books/1415357189m/89724.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415357189s/89724.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle</link>
+  <num_pages>146</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>22757</ratings_count>
+  <description>Visitors call seldom at Blackwood House. Taking tea at the scene of a multiple poisoning, with a suspected murderess as one's host, is a perilous business. For a start, the talk tends to turn to arsenic. "It happened in this very room, and we still have our dinner in here every night," explains Uncle Julian, continually rehearsing the details of the fatal family meal. "My sister made these this morning," says Merricat, politely proffering a plate of rum cakes, fresh from the poisoner's kitchen. &lt;em&gt;We Have Always Lived in the Castle&lt;/em&gt;, Shirley Jackson's 1962 novel, is full of a macabre and sinister humor, and Merricat herself, its amiable narrator, is one of the great unhinged heroines of literature. "What place would be better for us than this?" she asks, of the neat, secluded realm she shares with her uncle and with her beloved older sister, Constance. "Who wants us, outside? The world is full of terrible people." Merricat has developed an idiosyncratic system of rules and protective magic, burying talismanic objects beneath the family estate, nailing them to trees, ritually revisiting them. She has made "a powerful taut web which never loosened, but held fast to guard us" against the distrust and hostility of neighboring villagers.&lt;br&gt;&lt;br&gt;Or so she believes. But at last the magic fails. A stranger arrives -- cousin Charles, with his eye on the Blackwood fortune. He disturbs the sisters' careful habits, installing himself at the head of the family table, unearthing Merricat's treasures, talking privately to Constance about "normal lives" and "boy friends." Unable to drive him away by either polite or occult means, Merricat adopts more desperate methods. The result is crisis and tragedy, the revelation of a terrible secret, the convergence of the villagers upon the house, and a spectacular unleashing of collective spite.&lt;br&gt;&lt;br&gt;The sisters are propelled further into seclusion and solipsism, abandoning "time and the orderly pattern of our old days" in favor of an ever-narrowing circuit of ritual and shadow. They have themselves become talismans, to be alternately demonized and propitiated, darkly, with gifts. Jackson's novel emerges less as a study in eccentricity and more -- like some of her other fictions -- as a powerful critique of the anxious, ruthless processes involved in the maintenance of normality itself. "Poor strangers," says Merricat contentedly at last, studying trespassers from the darkness behind the barricaded Blackwood windows. "They have so much to be afraid of."</description>
+<authors>
+<author>
+<id>13388</id>
+<name>Shirley Jackson</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1196262589p5/13388.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1196262589p2/13388.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13388.Shirley_Jackson]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>140868</ratings_count>
+<text_reviews_count>9077</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Dec 01 00:00:00 -0800 2014</started_at>
+  <read_at>Wed Dec 03 00:00:00 -0800 2014</read_at>
+  <date_added>Mon Oct 27 08:57:48 -0700 2014</date_added>
+  <date_updated>Thu Dec 04 09:52:17 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book is perfect. Unsettling, gripping, masterfully written.]]>
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1090504968]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1090504968]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1080261737</id>
+    <book>
+  <id type="integer">18666105</id>
+  <isbn>1781162492</isbn>
+  <isbn13>9781781162491</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <title>Resistance</title>
+  <image_url>https://d.gr-assets.com/books/1400894226m/18666105.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1400894226s/18666105.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/18666105-resistance</link>
+  <num_pages>289</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Titan Books</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>76</ratings_count>
+  <description>&lt;strong&gt;In 2020, eleven years after the passengers of flight BA142 from London to Delhi developed extraordinary abilities corresponding to their innermost desires, the world is overrun with supers. Some use their powers for good, others for evil, and some just want to pulverize iconic monuments and star in their own reality show. But now, from New York to Tokyo, someone is hunting down supers, killing heroes and villains both, and it’s up to the Unit to stop them…&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;
+  &lt;br&gt;&lt;/strong&gt;</description>
+<authors>
+<author>
+<id>66280</id>
+<name>Samit Basu</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1299481336p5/66280.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1299481336p2/66280.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/66280.Samit_Basu]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>2606</ratings_count>
+<text_reviews_count>242</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Oct 26 00:00:00 -0700 2014</started_at>
+  <read_at>Wed Nov 05 14:32:53 -0800 2014</read_at>
+  <date_added>Tue Oct 14 14:53:13 -0700 2014</date_added>
+  <date_updated>Wed Nov 05 14:32:53 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1080261737]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1080261737]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1069618366</id>
+    <book>
+  <id type="integer">15818106</id>
+  <isbn>0061914304</isbn>
+  <isbn13>9780061914300</isbn13>
+  <text_reviews_count type="integer">88</text_reviews_count>
+  <title>Very Recent History: An Entirely Factual Account of a Year (c. AD 2009) in a Large City</title>
+  <image_url>https://d.gr-assets.com/books/1374634037m/15818106.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1374634037s/15818106.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/15818106-very-recent-history</link>
+  <num_pages>240</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Harper</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.21</average_rating>
+  <ratings_count>427</ratings_count>
+  <description>What will the future make of us?&lt;br&gt;&lt;br&gt;In one of the greatest cities in the world, the richest man in town is the Mayor. Billionaires shed apartments like last season's fashion trends, even as the country's economy turns inside out and workers are expelled from the City's glass towers. The young and careless go on as they always have, getting laid and getting laid off, falling in and falling out of love, and trying to navigate the strange world they traffic in: the Internet, complex financial markets, credit cards, pop stars, microplane cheese graters, and sex apps.&lt;br&gt;&lt;br&gt;A true-life fable of money, sex, and politics, &lt;em&gt;Very Recent History&lt;/em&gt; follows a man named John and his circle of friends, lovers, and enemies. It is a book that pieces together our every day, as if it were already forgotten.</description>
+<authors>
+<author>
+<id>6466612</id>
+<name>Choire Sicha</name>
+<role></role>
+<image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-2201d4a48ef4852b422c278952e03be9.png]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-ccc56e79bcc2db9e6cdcd450a4940d46.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6466612.Choire_Sicha]]></link>
+<average_rating>3.23</average_rating>
+<ratings_count>431</ratings_count>
+<text_reviews_count>93</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Oct 19 00:00:00 -0700 2014</started_at>
+  <read_at>Fri Oct 31 13:33:21 -0700 2014</read_at>
+  <date_added>Wed Oct 01 18:29:52 -0700 2014</date_added>
+  <date_updated>Fri Oct 31 13:33:21 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1069618366]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1069618366]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1067717623</id>
+    <book>
+  <id type="integer">15819028</id>
+  <isbn>0062110837</isbn>
+  <isbn13>9780062110831</isbn13>
+  <text_reviews_count type="integer">5244</text_reviews_count>
+  <title>The Golem and the Jinni</title>
+  <image_url>https://d.gr-assets.com/books/1349205573m/15819028.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1349205573s/15819028.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/15819028-the-golem-and-the-jinni</link>
+  <num_pages>496</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Harper</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>36801</ratings_count>
+  <description>Chava is a golem, a creature made of clay, brought to life by a disgraced rabbi who dabbles in dark Kabbalistic magic. When her master, the husband who commissioned her, dies at sea on the voyage from Poland, she is unmoored and adrift as the ship arrives in New York in 1899. &lt;br&gt;&lt;br&gt;Ahmad is a jinni, a being of fire, born in the ancient Syrian desert. Trapped in an old copper flask by a Bedouin wizard centuries ago, he is released accidentally by a tinsmith in a Lower Manhattan shop. Though he is no longer imprisoned, Ahmad is not entirely free – an unbreakable band of iron binds him to the physical world. &lt;br&gt;&lt;br&gt;&lt;em&gt;The Golem and the Jinni&lt;/em&gt; is their magical, unforgettable story; unlikely friends whose tenuous attachment challenges their opposing natures – until the night a terrifying incident drives them back into their separate worlds. But a powerful threat will soon bring Chava and Ahmad together again, challenging their existence and forcing them to make a fateful choice.</description>
+<authors>
+<author>
+<id>6466778</id>
+<name>Helene Wecker</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1350589061p5/6466778.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1350589061p2/6466778.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6466778.Helene_Wecker]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>36818</ratings_count>
+<text_reviews_count>5968</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Dec 07 17:22:24 -0800 2014</started_at>
+  <read_at>Mon Dec 15 23:01:50 -0800 2014</read_at>
+  <date_added>Mon Sep 29 20:26:32 -0700 2014</date_added>
+  <date_updated>Mon Dec 15 23:01:50 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1067717623]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1067717623]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1067223669</id>
+    <book>
+  <id type="integer">18222880</id>
+  <isbn>0544262301</isbn>
+  <isbn13>9780544262300</isbn13>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <title>You're Not Much Use to Anyone</title>
+  <image_url>https://d.gr-assets.com/books/1404782796m/18222880.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1404782796s/18222880.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/18222880-you-re-not-much-use-to-anyone</link>
+  <num_pages>214</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>New Harvest</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.06</average_rating>
+  <ratings_count>218</ratings_count>
+  <description>David is a freshly minted NYU grad who’s working a not-quite-entry-level job, falling in love, and telling his parents he’s studying for the LSAT. He starts a Tumblr blog, typing out posts on his BlackBerry under his desk—a blog that becomes wildly popular and brings him to the attention of major media (&lt;em&gt;The New York Times&lt;/em&gt;) as well as the White House. But his outward fame doesn’t quell his confusion about the world and his direction in it.&lt;br&gt;&lt;br&gt;This semiautobiographical debut is a coming-of-age story perfect for our time. In &lt;em&gt;A Sense of Wonder&lt;/em&gt; author Gideon Lewis-Kraus’s words, “If Tao Lin had been born to Gary Shteyngart’s parents and spent his early twenties slaving for pageviews at NewYorker.com, he would have written something like this, the &lt;em&gt;Bright Lights, Big City&lt;/em&gt; of the click-here-now generation.”</description>
+<authors>
+<author>
+<id>7045094</id>
+<name>David   Shapiro</name>
+<role></role>
+<image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-2201d4a48ef4852b422c278952e03be9.png]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-ccc56e79bcc2db9e6cdcd450a4940d46.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7045094.David_Shapiro]]></link>
+<average_rating>3.43</average_rating>
+<ratings_count>269</ratings_count>
+<text_reviews_count>53</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 29 00:00:00 -0700 2014</started_at>
+  <read_at>Fri Oct 03 14:39:07 -0700 2014</read_at>
+  <date_added>Mon Sep 29 09:27:35 -0700 2014</date_added>
+  <date_updated>Fri Oct 03 14:39:07 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1067223669]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1067223669]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1066926218</id>
+    <book>
+  <id type="integer">22452306</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <title>Night's Slow Poison (Imperial Radch, #0.5)</title>
+  <image_url>https://d.gr-assets.com/books/1418606162m/22452306.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1418606162s/22452306.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/22452306-night-s-slow-poison</link>
+  <num_pages>20</num_pages>
+  <format>ebook</format>
+  <edition_information></edition_information>
+  <publisher>tor.com</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.63</average_rating>
+  <ratings_count>169</ratings_count>
+  <description>“Night’s Slow Poison” is from the same setting as Ancillary Justice, and tells a rich, claustrophobic story of a galactic voyage that forces one guardsmen to confront his uneasy family history through the lens of a passenger with his lost lover’s eyes.</description>
+<authors>
+<author>
+<id>3365457</id>
+<name>Ann Leckie</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p5/3365457.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p2/3365457.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3365457.Ann_Leckie]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>18171</ratings_count>
+<text_reviews_count>2981</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="short-stories" exclusive="false" review_shelf_id="806097852" sortable="false" />
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Sep 28 00:00:00 -0700 2014</started_at>
+  <read_at>Sun Sep 28 00:00:00 -0700 2014</read_at>
+  <date_added>Sun Sep 28 22:47:24 -0700 2014</date_added>
+  <date_updated>Wed Oct 08 17:57:15 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1066926218]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1066926218]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1062034159</id>
+    <book>
+  <id type="integer">20706284</id>
+  <isbn>0316246654</isbn>
+  <isbn13>9780316246651</isbn13>
+  <text_reviews_count type="integer">528</text_reviews_count>
+  <title>Ancillary Sword (Imperial Radch, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1413464739m/20706284.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1413464739s/20706284.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/20706284-ancillary-sword</link>
+  <num_pages>359</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Orbit</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>3820</ratings_count>
+  <description>&lt;strong&gt;What if you once had thousands of bodies and near god-like technology at your disposal? &lt;/strong&gt;&lt;strong&gt;
+  &lt;br&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;And what if all of it were ripped away? &lt;/strong&gt;&lt;br&gt;&lt;br&gt;The Lord of the Radch has given Breq command of the ship Mercy of Kalr and sent her to the only place she would have agreed to go -- to Athoek Station, where Lieutenant Awn's sister works in Horticulture.&lt;br&gt;&lt;br&gt;Athoek was annexed some six hundred years ago, and by now everyone is fully civilized -- or should be. But everything is not as tranquil as it appears. Old divisions are still troublesome, Athoek Station's AI is unhappy with the situation, and it looks like the alien Presger might have taken an interest in what's going on. With no guarantees that interest is benevolent.</description>
+<authors>
+<author>
+<id>3365457</id>
+<name>Ann Leckie</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p5/3365457.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p2/3365457.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3365457.Ann_Leckie]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>18171</ratings_count>
+<text_reviews_count>2981</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 08 00:00:00 -0700 2014</started_at>
+  <read_at>Fri Oct 17 12:47:35 -0700 2014</read_at>
+  <date_added>Mon Sep 22 21:18:21 -0700 2014</date_added>
+  <date_updated>Fri Oct 17 22:58:07 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I’m enjoying this series so much. Can’t wait for the third book.]]>
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1062034159]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1062034159]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1055884027</id>
+    <book>
+  <id type="integer">17333324</id>
+  <isbn>031624662X</isbn>
+  <isbn13>9780316246620</isbn13>
+  <text_reviews_count type="integer">2050</text_reviews_count>
+  <title>Ancillary Justice (Imperial Radch, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1397215917m/17333324.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1397215917s/17333324.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/17333324-ancillary-justice</link>
+  <num_pages>386</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Orbit</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>13845</ratings_count>
+  <description>&lt;strong&gt;Winner of the Hugo, Nebula, British Science Fiction, Locus and Arthur C. Clarke Awards. &lt;/strong&gt;&lt;strong&gt;
+  &lt;br&gt;&lt;/strong&gt;On a remote, icy planet, the soldier known as Breq is drawing closer to completing her quest.&lt;br&gt;Once, she was the Justice of Toren - a colossal starship with an artificial intelligence linking thousands of soldiers in the service of the Radch, the empire that conquered the galaxy. &lt;br&gt;Now, an act of treachery has ripped it all away, leaving her with one fragile human body, unanswered questions, and a burning desire for vengeance. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</description>
+<authors>
+<author>
+<id>3365457</id>
+<name>Ann Leckie</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p5/3365457.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1402526383p2/3365457.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3365457.Ann_Leckie]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>18171</ratings_count>
+<text_reviews_count>2981</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Sep 18 16:17:26 -0700 2014</started_at>
+  <read_at>Sun Sep 28 22:27:46 -0700 2014</read_at>
+  <date_added>Mon Sep 15 15:43:14 -0700 2014</date_added>
+  <date_updated>Mon Jan 05 22:09:40 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1055884027]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1055884027]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1052699354</id>
+    <book>
+  <id type="integer">18114229</id>
+  <isbn>1594632332</isbn>
+  <isbn13>9781594632334</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>How to Get Filthy Rich in Rising Asia: A Novel</title>
+  <image_url>https://d.gr-assets.com/books/1381298059m/18114229.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1381298059s/18114229.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/18114229-how-to-get-filthy-rich-in-rising-asia</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Riverhead Trade</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.71</average_rating>
+  <ratings_count>7413</ratings_count>
+  <description>From the internationally bestselling author of &lt;em&gt;The Reluctant Fundamentalist&lt;/em&gt;, the boldly imagined tale of a poor boy’s quest for wealth and love.&lt;br&gt;&lt;br&gt;His first two novels established Mohsin Hamid as a radically inventive storyteller with his finger on the world’s pulse. &lt;em&gt;How to Get Filthy Rich in Rising Asia&lt;/em&gt; meets that reputation and exceeds it. The astonishing and riveting tale of a man’s journey from impoverished rural boy to corporate tycoon, it steals its shape from the business self-help books devoured by ambitious youths all over “rising Asia.” It follows its nameless hero to the sprawling metropolis where he begins to amass an empire built on that most fluid, and increasingly scarce, of goods: water. Yet his heart remains set on something else: on the pretty girl whose star rises along with his, their paths crossing and recrossing, a lifelong affair sparked and snuffed and sparked again by the forces that careen their fates along.&lt;br&gt;&lt;br&gt;&lt;em&gt;How to Get Filthy Rich in Rising Asia&lt;/em&gt; is a striking slice of contemporary life at a time of crushing upheaval. Romantic without being sentimental, political without being didactic, and spiritual without being religious, it brings an unflinching gaze to the violence and hope it depicts. And it creates two unforgettable characters who find moments of transcendent intimacy in the midst of shattering change.</description>
+<authors>
+<author>
+<id>16902</id>
+<name>Mohsin Hamid</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1361498297p5/16902.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1361498297p2/16902.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16902.Mohsin_Hamid]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>39499</ratings_count>
+<text_reviews_count>5225</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Sep 11 00:00:00 -0700 2014</started_at>
+  <read_at>Wed Sep 17 10:14:08 -0700 2014</read_at>
+  <date_added>Thu Sep 11 22:32:25 -0700 2014</date_added>
+  <date_updated>Wed Sep 17 10:14:08 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1052699354]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1052699354]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1050491805</id>
+    <book>
+  <id type="integer">22903174</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>Clipping Through: One Mad Week In Video Games</title>
+  <image_url>https://d.gr-assets.com/books/1407785478m/22903174.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1407785478s/22903174.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/22903174-clipping-through</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information></edition_information>
+  <publisher>Gumroad, Inc.</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>48</ratings_count>
+  <description>Get up close with suits, madmen, dear friends, industry heroes (and gnawing personal terror), in some of Leigh Alexander's boldest and most intimate writing yet. The veteran game journalist takes you inside the curious experience of life and work in video games -- through the lens of one week spent at the incredible Game Developers Conference.</description>
+<authors>
+<author>
+<id>4550110</id>
+<name>Leigh Alexander</name>
+<role></role>
+<image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-e4c73403a78dd1625caf6b7439eb31f9.png]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-9e23bac89f169d02e43709e42b361705.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4550110.Leigh_Alexander]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>195</ratings_count>
+<text_reviews_count>35</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Nov 08 15:47:19 -0800 2014</started_at>
+  <read_at>Sun Nov 09 01:10:33 -0800 2014</read_at>
+  <date_added>Tue Sep 09 15:34:04 -0700 2014</date_added>
+  <date_updated>Sun Nov 09 01:10:33 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1050491805]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1050491805]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1050488400</id>
+    <book>
+  <id type="integer">1631908</id>
+  <isbn>0826428185</isbn>
+  <isbn13>9780826428189</isbn13>
+  <text_reviews_count type="integer">31</text_reviews_count>
+  <title>If You're Feeling Sinister</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-c93ac9cca649f584bf7c2539d88327a8.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-4845f44723bc5d3a9ac322f99b110b1d.png</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/1631908.If_You_re_Feeling_Sinister</link>
+  <num_pages>105</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Continuum</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.30</average_rating>
+  <ratings_count>166</ratings_count>
+  <description>If You're Feeling Sinister shows how Belle &amp;amp; Sebastian transformed themselves over the space of a decade, from a slightly shambolic cult secret into a polished, highly entertaining, mainstream pop group. Along the way, the book shows how the internet has revolutionized how we discover new music--often at the cost of romance and mystery.</description>
+<authors>
+<author>
+<id>755159</id>
+<name>Scott Plagenhoef</name>
+<role></role>
+<image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-2201d4a48ef4852b422c278952e03be9.png]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-ccc56e79bcc2db9e6cdcd450a4940d46.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/755159.Scott_Plagenhoef]]></link>
+<average_rating>3.43</average_rating>
+<ratings_count>383</ratings_count>
+<text_reviews_count>58</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 01 00:00:00 -0800 2007</read_at>
+  <date_added>Tue Sep 09 15:29:44 -0700 2014</date_added>
+  <date_updated>Wed Sep 10 17:53:43 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1050488400]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1050488400]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1050478537</id>
+    <book>
+  <id type="integer">19288239</id>
+  <isbn>0385352107</isbn>
+  <isbn13>9780385352109</isbn13>
+  <text_reviews_count type="integer">2747</text_reviews_count>
+  <title>Colorless Tsukuru Tazaki and His Years of Pilgrimage</title>
+  <image_url>https://d.gr-assets.com/books/1409000450m/19288239.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1409000450s/19288239.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/19288239-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage</link>
+  <num_pages>386</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Knopf Publishing Group</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>26756</ratings_count>
+  <description>&lt;em&gt;Colorless Tsukuru Tazaki and His Years of Pilgrimage&lt;/em&gt; is the long-awaited new novel-- a book that sold more than a million copies the first week it went on sale in Japan--from the award-winning, internationally best-selling author Haruki Murakami.&lt;br&gt;&lt;br&gt;Here he gives us the remarkable story of Tsukuru Tazaki, a young man haunted by a great loss; of dreams and nightmares that have unintended consequences for the world around us; and of a journey into the past that is necessary to mend the present. It is a story of love, friendship, and heartbreak for the ages.&lt;br&gt;&lt;br&gt;&lt;em&gt;Description from the inside of the dust jacket.&lt;/em&gt;</description>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1350230608p5/3354.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1350230608p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>4785188</ratings_count>
+<text_reviews_count>156637</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Sep 09 00:00:00 -0700 2014</started_at>
+  <read_at>Tue Sep 09 15:27:55 -0700 2014</read_at>
+  <date_added>Tue Sep 09 15:15:41 -0700 2014</date_added>
+  <date_updated>Mon Jan 05 22:10:01 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/1050478537]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1050478537]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>981406178</id>
+    <book>
+  <id type="integer">17933882</id>
+  <isbn>1623568900</isbn>
+  <isbn13>9781623568900</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <title>Aphex Twin's Selected Ambient Works Volume II</title>
+  <image_url>https://d.gr-assets.com/books/1376950189m/17933882.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1376950189s/17933882.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/17933882-aphex-twin-s-selected-ambient-works-volume-ii</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Bloomsbury Academic</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.36</average_rating>
+  <ratings_count>88</ratings_count>
+  <description>Extravagantly opaque, willfully vaporous — Aphex Twin’s&lt;em&gt; Selected Ambient Works Volume II&lt;/em&gt;, released by the estimable British label Warp Records in 1994, rejuvenated ambient music for the Internet Age that was just dawning. In the United States, it was his first full length on Sire Records (home to Madonna and Depeche Mode), which helped usher in Richard D. James, for whom Aphex Twin is but one of numerous monikers, as a major force in music, electronic or otherwise.&lt;br&gt;&lt;br&gt;Faithful to Brian Eno’s definition of ambient music, &lt;em&gt;Selected Ambient Works Volume II&lt;/em&gt; was intentionally functional: it furnished chill rooms, the sanctuaries amid intense raves. Choreographers and film directors began to employ it to their own ends, and in the intervening decades this background music came to the fore, adapted by classical composers who reverse-engineer its fragile textures for performance on acoustic instruments. Simultaneously, “ambient” has moved from esoteric sound art to central tenet of online culture. This book contends that despite a reputation for being beat-less, the album exudes percussive curiosity, providing a sonic metaphor for our technologically mediated era of countless synchronized nanosecond metronomes.</description>
+<authors>
+<author>
+<id>6200438</id>
+<name>Marc Weidenbaum</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1341201517p5/6200438.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1341201517p2/6200438.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6200438.Marc_Weidenbaum]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>300</ratings_count>
+<text_reviews_count>53</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jun 29 00:00:00 -0700 2014</read_at>
+  <date_added>Sun Jun 29 15:06:40 -0700 2014</date_added>
+  <date_updated>Sun Jun 29 21:12:11 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Would have enjoyed a bit more inside baseball on the album itself, but the focus on context and influence was  illuminating. Like a great set of liner notes, this book sent me in a dozen directions seeking out new-to-me albums, books, and more.]]>
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/981406178]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/981406178]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>962750591</id>
+    <book>
+  <id type="integer">416059</id>
+  <isbn>0425071650</isbn>
+  <isbn13>9780425071656</isbn13>
+  <text_reviews_count type="integer">40</text_reviews_count>
+  <title>Shatterday</title>
+  <image_url>https://d.gr-assets.com/books/1410639038m/416059.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1410639038s/416059.jpg</small_image_url>
+  <large_image_url></large_image_url>
+  <link>https://www.goodreads.com/book/show/416059.Shatterday</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Berkley</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>1983</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>1651</ratings_count>
+  <description>A man's life is shattered as he meets a better version of himself. This story was made into an episode of "The New Twilight Zone" and starred a young Bruce Willis. Nebula Award(R) Nominee.&lt;br&gt;&lt;br&gt;Contents:&lt;br&gt;&lt;br&gt;· Introduction: Mortal Dreads · in &lt;br&gt;· Jeffty Is Five · ss F&amp;amp;SF Jul ’77 &lt;br&gt;· How’s the Night Life on Cissalda? · ss Chrysalis, ed. Roy Torgeson, Zebra, 1977; Heavy Metal Nov ’77 &lt;br&gt;· Flop Sweat · ss Heavy Metal Mar ’79 &lt;br&gt;· Would You Do It For a Penny? · Harlan Ellison &amp;amp; Haskell Barkin · ss Playboy Oct ’67 &lt;br&gt;· The Man Who Was Heavily into Revenge · ss Analog Aug ’78 &lt;br&gt;· Shoppe Keeper · ss The Arts and Beyond, ed. Thomas F. Monteleone, Garden City, NY: Doubleday, 1977 &lt;br&gt;· All the Lies That Are My Life · na Underwood-Miller; Columbia, PA Oct ’80 &lt;br&gt;· Django · ss Galileo #6 ’78 &lt;br&gt;· Count the Clock That Tells the Time · ss Omni Dec ’78 &lt;br&gt;· In the Fourth Year of the War · ss Midnight Sun #5 ’79 &lt;br&gt;· Alive and Well and on a Friendless Voyage · ss F&amp;amp;SF Jul ’77 &lt;br&gt;· All the Birds Come Home to Roost · ss Playboy Mar ’79 &lt;br&gt;· Opium · ss Shayol #2 ’78 &lt;br&gt;· The Other Eye of Polyphemus · ss Cosmos SF&amp;amp;F Magazine Nov ’77 &lt;br&gt;· The Executioner of the Malformed Children · ss Iguanacon Program Book, 1978 &lt;br&gt;· Shatterday · ss Gallery Sep ’75; Science Fiction Monthly v2 #8 ’75</description>
+<authors>
+<author>
+<id>7415</id>
+<name>Harlan Ellison</name>
+<role></role>
+<image_url>
+<![CDATA[https://d.gr-assets.com/authors/1377708311p5/7415.jpg]]>
+</image_url>
+<small_image_url>
+<![CDATA[https://d.gr-assets.com/authors/1377708311p2/7415.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7415.Harlan_Ellison]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>105582</ratings_count>
+<text_reviews_count>4779</text_reviews_count>
+</author>
+</authors>
+  <published>1983</published>
+</book>
+
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 09 16:20:19 -0700 2014</started_at>
+  <read_at>Sun Jul 06 16:07:40 -0700 2014</read_at>
+  <date_added>Mon Jun 09 16:20:19 -0700 2014</date_added>
+  <date_updated>Sun Jul 06 16:07:40 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      
+  </body>
+  <comments_count>0</comments_count>
+  <url><![CDATA[https://www.goodreads.com/review/show/962750591]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/962750591]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
